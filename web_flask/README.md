@@ -1,3 +1,3 @@
-# 0x04. AirBnB clone - web framework
+## 0x04. AirBnB clone - Web framework
 
-In this project, I am introduced to my firts web framework - Flask.
+Setting up the wb framework using flask and jinja2.
